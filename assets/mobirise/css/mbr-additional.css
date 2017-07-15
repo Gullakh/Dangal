@@ -417,6 +417,12 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header1-1 .mbr-section-title {
+  font-size: 48px;
+}
+#header1-1 .mbr-section-lead {
+  font-size: 24px;
+}
 #features3-e H5 {
   font-size: 13px;
 }
@@ -486,12 +492,6 @@ h6,
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
-}
-#header1-1 .mbr-section-title {
-  font-size: 48px;
-}
-#header1-1 .mbr-section-lead {
-  font-size: 24px;
 }
 #features4-1 .card-subtitle {
   color: #ffffff;
