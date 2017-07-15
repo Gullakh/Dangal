@@ -83,7 +83,7 @@
           "title1": "Compare &amp; Apply",
           "subtitle1": "Choose from 15 partner banks",
           "caption1": "Check the rate of interest and fees, compare the fineprints on loans and apply.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Compare</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -107,7 +107,7 @@
           "title3": "Kick-start DANGAL",
           "subtitle3": "Watch the banks fight-it-out to win your loan",
           "caption3": "Don't just compare, let the banks compete. Decide your timeframe and watch the banks bring down the interest rates and processing fee",
-          "button3": "<a data-app-btn=\"true\" href=\"https://forms.zohopublic.com/akbar/form/DANGALPersonalLoan/formperma/Bd7CeA2jHjMj06jF450hC5f90\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Enter the DANGAL</a>  ",
+          "button3": "<a data-app-btn=\"true\" href=\"https://forms.zohopublic.com/akbar/form/DANGALPersonalLoan/formperma/Bd7CeA2jHjMj06jF450hC5f90\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Start</a>  ",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
